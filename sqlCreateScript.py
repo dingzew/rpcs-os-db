@@ -36,7 +36,7 @@
 #  b. sqlInsertScript.py
 #-----------------------------------------------------------------------------------------------------------
 # 
-#  Date Created: Apr 02th, 2019
+#  Date Created: Apr 02, 2019
 #  Created By  : Dingze Wang(dingzew)
 #  Version     : 0.1(First)
 #  Description : a. Creates database first with name: osdb_sql
